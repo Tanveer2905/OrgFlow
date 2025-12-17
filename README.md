@@ -4,7 +4,7 @@ Hi! This is **OrgFlow**, a full-stack project management tool I built to streaml
 
 This project was a deep dive for me into **GraphQL** APIs, managing complex state in React, and implementing secure Role-Based Access Control (RBAC).
 
-## 💡 What it does (Features)
+##  What it does (Features)
 
 I focused on creating a smooth workflow for teams. Here are the core features I implemented:
 
@@ -15,7 +15,7 @@ I focused on creating a smooth workflow for teams. Here are the core features I 
 * **Secure Authentication:** Fully implemented JWT (JSON Web Token) authentication for login and registration.
 * **Context-Aware Comments:** Every task has its own discussion thread so the team can collaborate right where the work happens.
 
-## 🛠️ The Tech Stack
+##  The Tech Stack
 
 I chose this stack to leverage the robustness of Python for the backend and the speed of React for the frontend.
 
@@ -26,7 +26,7 @@ I chose this stack to leverage the robustness of Python for the backend and the 
 
 ---
 
-## 💻 How to Run This Locally
+##  How to Run This Locally
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ The app will open at `http://localhost:3000`.
 
 ---
 
-## 🧪 Testing the Permissions
+##  Testing the Permissions
 
 To see the role-based logic in action:
 
